@@ -27,7 +27,7 @@ weightKilograms = int(weightPounds) / 2.20462
 print(weightKilograms)
 """
 # STRINGS
-"""
+
 course = "Python for Beginners"
 print(course[0])
 print(course[-1])
@@ -36,4 +36,5 @@ print(course[0:])
 print(course[:5])
 print(course[:])
 print(course[1:-1])
-"""
+
+# Github branch 01
